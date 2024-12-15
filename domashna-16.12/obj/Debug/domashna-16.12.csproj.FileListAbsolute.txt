@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\Nataliq 9a\domashna-16.12\domashna-16.12\bin\Debug\domashna-16.12.exe.config
+C:\Users\Admin\Desktop\Nataliq 9a\domashna-16.12\domashna-16.12\bin\Debug\domashna-16.12.exe
+C:\Users\Admin\Desktop\Nataliq 9a\domashna-16.12\domashna-16.12\bin\Debug\domashna-16.12.pdb
+C:\Users\Admin\Desktop\Nataliq 9a\domashna-16.12\domashna-16.12\obj\Debug\domashna-16.12.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Nataliq 9a\domashna-16.12\domashna-16.12\obj\Debug\domashna-16.12.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Nataliq 9a\domashna-16.12\domashna-16.12\obj\Debug\domashna-16.12.exe
+C:\Users\Admin\Desktop\Nataliq 9a\domashna-16.12\domashna-16.12\obj\Debug\domashna-16.12.pdb
